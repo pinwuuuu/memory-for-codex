@@ -1,0 +1,23 @@
+# Local memory data only. Keep the store private and machine-specific.
+store/episodic/
+store/semantic/
+store/procedural/
+store/working/
+store/working/active.md
+meta/index.json
+
+!store/episodic/.gitkeep
+!store/episodic/sessions/.gitkeep
+!store/episodic/sessions/archive/.gitkeep
+!store/episodic/events/.gitkeep
+!store/semantic/.gitkeep
+!store/semantic/projects/.gitkeep
+!store/semantic/people/.gitkeep
+!store/semantic/technologies/.gitkeep
+!store/semantic/domain/.gitkeep
+!store/procedural/.gitkeep
+!store/procedural/workflows/.gitkeep
+!store/procedural/decisions/.gitkeep
+!store/procedural/conventions/.gitkeep
+!store/working/.gitkeep
+!meta/.gitkeep
